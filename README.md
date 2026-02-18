@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## shoegazers / Rivers Frost
+- 18 year old developer from Russia
+- I write mainly Rust and TypeScript
+- 🌱 I am looking to learn Perl, Elixir, C++, Ruby, Swift, Dart, and more
+- Looking for freelancing opportunities
+- 📫 How to reach me: @riversfrost:matrix.org / shoegazist on Discord
 <!--
 **shoegazers/shoegazers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
